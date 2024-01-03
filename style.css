@@ -1,0 +1,33 @@
+ul {
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif, serif;
+    width: 150px;
+    margin: 0px auto;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.heading {
+    background-color: midnightblue;
+    padding: 20px;
+    border: 15px solid black;
+    width: 250px;
+    color: white;
+    margin: 5px auto;
+    text-align: center
+}
+
+.second {
+    width: 550px;
+    margin: 5px auto;
+}
+
+.cook {
+    display: block;
+    width: 150px;
+    height: 100px;
+    margin: 10px auto;
+}
